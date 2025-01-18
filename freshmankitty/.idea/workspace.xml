@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2941f056-4906-4a79-a0da-d8dafcdba9cd" name="Changes" comment="initial demo build">
+      <change afterPath="$PROJECT_DIR$/backend/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/models/Response.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/code-frame/lib/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/generator/lib/generators/classes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/generator/lib/generators/types.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/generator/lib/generators/typescript.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/generator/lib/node/parentheses.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/helper-module-imports/lib/import-builder.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/helper-module-imports/lib/index.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/helper-module-imports/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/helper-string-parser/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/helper-validator-identifier/lib/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/checkInRHS.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/classApplyDescriptorDestructureSet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/classCallCheck.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/defineAccessor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/defineProperty.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/classPrivateFieldDestructureSet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/initializerWarningHelper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/maybeArrayLike.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/slicedToArray.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/superPropGet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/using.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/extends.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/getPrototypeOf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/initializerDefineProperty.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/iterableToArray.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/iterableToArrayLimit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/taggedTemplateLiteral.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/toPrimitive.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/writeOnlyError.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/regenerator/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/template/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/template/lib/formatters.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/template/lib/options.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/traverse/lib/context.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/traverse/lib/hub.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/traverse/lib/path/ancestry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/traverse/lib/path/conversion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/traverse/lib/path/family.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/traverse/lib/path/modification.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/traverse/lib/path/modification.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/traverse/lib/scope/lib/renamer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/traverse/lib/traverse-node.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/traverse/node_modules/debug/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/traverse/node_modules/debug/src/node.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/ast-types/generated/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/clone/cloneWithoutLoc.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/comments/addComment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/comments/inheritInnerComments.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/converters/toBindingIdentifierName.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/converters/toKeyAlias.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/converters/valueToNode.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/definitions/experimental.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/modifications/flow/removeTypeDuplicates.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/utils/shallowEqual.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/validators/isNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/validators/isReferenced.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/validators/isScope.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/lib/validators/isType.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@emotion/babel-plugin/dist/emotion-babel-plugin.cjs.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@emotion/babel-plugin/src/emotion-macro.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@emotion/babel-plugin/src/utils/transform-expression-with-styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@emotion/cache/dist/emotion-cache.edge-light.cjs.default.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@emotion/cache/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@emotion/hash/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@emotion/hash/dist/emotion-hash.cjs.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@emotion/hash/dist/emotion-hash.cjs.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@emotion/hash/dist/emotion-hash.cjs.prod.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@emotion/is-prop-valid/dist/emotion-is-prop-valid.cjs.default.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@emotion/is-prop-valid/src/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@emotion/memoize/dist/emotion-memoize.cjs.d.ts.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@emotion/memoize/dist/emotion-memoize.cjs.dev.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@emotion/memoize/src/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@emotion/react/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@emotion/react/dist/emotion-element-25f9958c.browser.cjs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@emotion/react/dist/emotion-react.browser.development.esm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@emotion/react/dist/emotion-react.development.edge-light.cjs.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@emotion/react/dist/emotion-react.edge-light.cjs.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@emotion/react/jsx-dev-runtime/dist/emotion-react-jsx-dev-runtime.browser.cjs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@emotion/react/jsx-dev-runtime/dist/emotion-react-jsx-dev-runtime.cjs.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@emotion/react/jsx-runtime/dist/emotion-react-jsx-runtime.development.edge-light.esm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@emotion/react/jsx-runtime/dist/emotion-react-jsx-runtime.umd.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@emotion/react/src/class-names.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@emotion/react/src/types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@emotion/serialize/dist/emotion-serialize.esm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@emotion/serialize/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@emotion/styled/base/dist/emotion-styled-base.browser.development.esm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@emotion/styled/base/dist/emotion-styled-base.cjs.default.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@emotion/styled/base/dist/emotion-styled-base.edge-light.esm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@emotion/styled/dist/declarations/src/types.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@emotion/styled/dist/emotion-styled.cjs.default.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@emotion/styled/dist/emotion-styled.umd.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@emotion/unitless/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@emotion/utils/dist/emotion-utils.cjs.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@emotion/utils/dist/emotion-utils.edge-light.esm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@emotion/utils/dist/emotion-utils.esm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/parse-json/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/cosmiconfig/dist/ExplorerSync.d.ts.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/cosmiconfig/dist/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/csstype/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/csstype/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/escape-string-regexp/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/escape-string-regexp/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/function-bind/.github/FUNDING.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/globals/globals.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/globals/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hasown/.nycrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hasown/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hoist-non-react-statics/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/import-fresh/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/is-arrayish/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jsesc/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/json-parse-even-better-errors/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/parent-module/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/path-type/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/picocolors/types.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-is/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-is/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react/cjs/react-compiler-runtime.production.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react/cjs/react-jsx-dev-runtime.development.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react/cjs/react-jsx-dev-runtime.profiling.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/resolve/lib/async.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/resolve/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/resolve/test/faulty_basedir.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/resolve/test/nonstring.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/resolve/test/resolver/browser_field/a.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/resolve/test/resolver/false_main/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/resolve/test/resolver/multirepo/packages/package-b/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/resolve/test/resolver/same_names/foo/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/resolve/test/resolver/symlinked/package/bar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/resolve/test/shadowed_core.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/source-map/dist/source-map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/stylis/dist/stylis.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/stylis/src/Tokenizer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/yaml/browser/dist/parse-cst.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/yaml/browser/schema.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/yaml/dist/legacy-exports.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/yaml/dist/resolveSeq-d03cb037.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/yaml/dist/types.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/yaml/pair.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/yaml/parse-cst.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/yaml/seq.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/yaml/types.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/yaml/types/omap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dockerfile" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2roGKGYpu27ppIXPQgxcCfUTlBE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Docker.docker-compose.yml.mongo: Compose Deployment.executor": "Run",
+    "Docker.frontend/Dockerfile.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "javascript.nodejs.core.library.configured.version": "22.11.0",
+    "javascript.nodejs.core.library.typings.version": "22.10.7",
+    "last_opened_file_path": "E:/Projects/Webdev/freshmankitty",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "E:/Software Files/IDEs/JS_TS/Node/node",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "E:\\Software Files\\IDEs\\JS_TS\\WebStorm 2024.3\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Projects\Webdev\freshmankitty\frontend" />
+      <recent name="E:\Projects\Webdev\freshmankitty" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Projects\Webdev\freshmankitty" />
+      <recent name="E:\Projects\Webdev\freshmankitty\backend" />
+      <recent name="E:\Projects\Webdev\freshmankitty\freshmankitty" />
+      <recent name="E:\Projects\Webdev\freshmankitty\freshmankitty\frontend" />
+      <recent name="E:\Projects\Webdev\freshmankitty\freshmankitty\backend" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Docker.docker-compose.yml.mongo: Compose Deployment">
+    <configuration default="true" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="dockerfile" temporary="true">
+      <deployment type="dockerfile" />
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml.mongo: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="mongo" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="frontend/Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="buildOnly" value="true" />
+          <option name="sourceFilePath" value="frontend/Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.docker-compose.yml.mongo: Compose Deployment" />
+        <item itemvalue="Docker.frontend/Dockerfile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-WS-243.21565.180" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2941f056-4906-4a79-a0da-d8dafcdba9cd" name="Changes" comment="" />
+      <created>1737217949125</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737217949125</updated>
+      <workItem from="1737217950359" duration="9404000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial demo build" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial demo build" />
+  </component>
+</project>
